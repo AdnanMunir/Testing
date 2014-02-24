@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+HEAD
 hello world hi ourangzaib
-=======
+
 hello world
 adnan
->>>>>>> f9b9d1119ae6d4d439a00d332e6a607d012129a9
+ksdflkdj
+lsjdf
