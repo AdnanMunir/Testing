@@ -3,7 +3,11 @@ mashood
   <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
 </p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 adnan munir change 2
+=======
+wer are working on this project
+>>>>>>> a6a2968932a1618945e0e26d90d82bed7d56bb45
 =======
 wer are working on this project
 >>>>>>> a6a2968932a1618945e0e26d90d82bed7d56bb45
