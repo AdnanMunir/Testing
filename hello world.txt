@@ -1,6 +1,12 @@
-<<<<<<< HEAD
+HEAD
 hello world hi ourangzaib
-=======
+
 hello world
 adnan
+<<<<<<< HEAD
+mu sceond commit
 >>>>>>> f9b9d1119ae6d4d439a00d332e6a607d012129a9
+=======
+ksdflkdj
+lsjdf
+>>>>>>> 38f07f347fc605f20c73747ffceac84f65c7f3ca
