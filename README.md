@@ -1,19 +1,10 @@
-mashood
-<p align="centerwith ourangzaib" >
-  <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
-</p>
-<<<<<<< HEAD
-<<<<<<< HEAD
+kjshdfkjjskjdfhsasfdlkjs fsljflksafj kdljfklsdjfldks djkf
 adnan munir change 2
-=======
-wer are working on this project
->>>>>>> a6a2968932a1618945e0e26d90d82bed7d56bb45
-=======
 wer are working on this project
 >>>>>>> a6a2968932a1618945e0e26d90d82bed7d56bb45
 [![Build Status](https://travis-ci.org/AFNetworking/AFNetworking.png)](https://travis-ci.org/AFNetworking/AFNetworking)
 
-AFNetworking is a delightful networking library for iOS and Mac OS X. It's built on top of the [Foundation URL Loading System](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html), extending the powerful high-level networking abstractions built into Cocoa. It has a modular architecture with well-designed, feature-rich APIs that are a joy to use.
+AFNetworking is a delightful networking library for iOS and Mac OS X. It's built on top of the [Foundation URL Loading System](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/URLLoadingSystelksdfkljklsdfjsklm/URLLoadingSystem.html), extending the powerful high-level networking abstractions built into Cocoa. It has a modular architecture with well-designed, feature-rich APIs that are a joy to use.
 
 Perhaps the most important feature of all, however, is the amazing community of developers who use and contribute to AFNetworking every day. AFNetworking powers some of the most popular and critically-acclaimed apps on the iPhone, iPad, and Mac.
 
